@@ -134,3 +134,11 @@ Create new user: `CREATE USER 'username'@'localhost' IDENTIFIED BY 'password';`
 Grant `ALL` access to user for `*` tables: `GRANT ALL ON database.* TO 'user'@'localhost';`
 
 
+Different Types of SQL JOINs
+=============
+  [Here are the different types of the JOINs](https://www.w3schools.com/sql/sql_join.asp) in SQL:
+
+- (INNER) JOIN: Returns records that have matching values in both tables
+- LEFT (OUTER) JOIN: Return all records from the left table, and the matched records from the right table
+- RIGHT (OUTER) JOIN: Return all records from the right table, and the matched records from the left table
+- FULL (OUTER) JOIN: Return all records when there is a match in either left or right table
