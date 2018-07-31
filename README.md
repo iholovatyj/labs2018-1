@@ -6,4 +6,8 @@
    git
 ## lesson-03
    MySQL
+## lesson-04
+   SSH
+## lesson-05-09
+   Linux basics
 
