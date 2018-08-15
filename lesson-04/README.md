@@ -15,21 +15,21 @@ Tools:
 
 
 
-ssh_mkotliarov: 3022
-ssh_dhladunets: 3122
-ssh_igolovatyy: 3222
-ssh_kskobylko: 3322
-ssh_akostiv: 3422
-ssh_iozarkiv: 3522
-ssh_vpavlyk: 3622
-ssh_akoval: 3722
-ssh_ozinoview: 3822
-ssh_ibilinskyi: 3922
-ssh_opashuk: 4022
-ssh_opavliuk: 4122
-ssh_bfedchyshyn: 4222
-ssh_mmaltseva: 4322
-ssh_nsagan: 4422
-ssh_dmysakovets: 4522
-ssh_svynnyk: 4622
+- mkotliarov: 3022
+- dhladunets: 3122
+- igolovatyy: 3222
+- kskobylko: 3322
+- akostiv: 3422
+- iozarkiv: 3522
+- vpavlyk: 3622
+- akoval: 3722
+- ozinoview: 3822
+- ibilinskyi: 3922
+- opashuk: 4022
+- opavliuk: 4122
+- bfedchyshyn: 4222
+- mmaltseva: 4322
+- nsagan: 4422
+- dmysakovets: 4522
+- svynnyk: 4622
 
